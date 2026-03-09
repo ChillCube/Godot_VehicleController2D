@@ -7,7 +7,6 @@ A character controller for vehicles in 2D (top down)
 
 | Source | Reference | Repository |
 | :--- | :--- | :--- |
-| Code | [`LevelUp-Stats-and-EXP-system`](https://github.com/ChillCube/Godot_LevelUp-Stats-and-EXP-system/blob/main/DOCUMENTATION.md) | [Repo](https://github.com/ChillCube/Godot_LevelUp-Stats-and-EXP-system) |
 
 ---
 
