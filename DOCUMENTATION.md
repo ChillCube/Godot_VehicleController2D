@@ -1,14 +1,7 @@
 # Godot_VehicleController2D API Reference
-Generated: 2026-03-09
+Generated: 2026-03-10
 
 A character controller for vehicles in 2D (top down)
-
-### 📦 Dependencies
-
-| Source | Reference | Repository |
-| :--- | :--- | :--- |
-
----
 
 ## Class: VehicleBody2D
 **Inherits:** [CharacterBody2D](https://docs.godotengine.org/en/stable/classes/class_characterbody2d.html)
