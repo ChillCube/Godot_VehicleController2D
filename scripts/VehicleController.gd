@@ -97,3 +97,4 @@ func _execute_boost():
 	# Handle Cooldown
 	await get_tree().create_timer(boost_cooldown).timeout
 	can_boost = true
+
