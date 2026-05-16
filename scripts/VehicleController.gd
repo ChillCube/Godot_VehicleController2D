@@ -1,3 +1,4 @@
+@icon("res://addons/Godot_VehicleController2D/icon_wheel.png")
 extends CharacterBody2D
 class_name VehicleBody2D
 
@@ -97,4 +98,3 @@ func _execute_boost():
 	# Handle Cooldown
 	await get_tree().create_timer(boost_cooldown).timeout
 	can_boost = true
-
